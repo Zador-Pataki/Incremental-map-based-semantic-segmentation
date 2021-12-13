@@ -1,5 +1,5 @@
 # Incremental-map-based-semantic-segmentation
-Semester project for the course Perception and Learning for Robotics. We propose an algo-rithm that incrementally constructs a 3D dense map and semantically segmentsthe dense map directly.  The advantage of our approach is that our classifier canleverage accumulated information of a scene captured in a dense map to make itspredictions.  We demonstrate the effectiveness of our proposed methods on twobenchmark data-sets.
+Semester project for the course Perception and Learning for Robotics. We propose an algorithm that incrementally constructs a 3D dense map and semantically segmentsthe dense map directly.  The advantage of our approach is that our classifier canleverage accumulated information of a scene captured in a dense map to make itspredictions.  We demonstrate the effectiveness of our proposed methods on twobenchmark data-sets.
 
 ## Media and Documents
 - ### Project Video
