@@ -5,6 +5,6 @@ Semester project for the course Perception and Learning for Robotics. We propose
 - ### Project Video
 https://user-images.githubusercontent.com/55353663/145886093-9cf76907-e985-43b7-9305-4d0f2d83bb7a.mp4
 
-- ### [Project Paper](https://github.com/Zador-Pataki/Incremental-map-based-semantic-segmentation/files/7706878/PLR.pdf)
+- ### [Project Paper PDF](https://github.com/Zador-Pataki/Incremental-map-based-semantic-segmentation/files/7706878/PLR.pdf)
 
  
